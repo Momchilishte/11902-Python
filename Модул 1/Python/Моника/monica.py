@@ -1,0 +1,6 @@
+<style>
+div {
+    background-color: rgb(0, 191, 255);
+    color: rgb(255, 255, 255);
+}
+</style>
